@@ -1,0 +1,22 @@
+{
+    "manifest_version":3,
+    "name":"Budget Manager",
+    "version":"1.0",
+    "description":"Personal Budget Manager",
+    "icons": {
+        "128": "icon128.png",
+        "48": "icon48.png",
+        "16": "icon16.png"
+    },
+    "action": {
+        "browser_style": true,
+        "default_icon": {
+            "16": "icon16.png"
+        },
+        "default_title":"Personal Budget Manager",
+        "default_popup":"index.html"
+    },
+    "permissions": [
+        "storage"
+    ]
+}

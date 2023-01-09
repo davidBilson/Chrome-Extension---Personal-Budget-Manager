@@ -1,0 +1,35 @@
+body {
+    background: rgb(24, 23, 27);
+}
+h1 {
+    text-align: center;
+    font-size: 1rem;
+    margin-top: 2rem;
+    color: ghostwhite;
+}
+h2 {
+    color: ghostwhite;
+}
+h3 {
+    color: ghostwhite;
+    font-size: .8rem;
+}
+#total {
+    color: ghostwhite;
+}
+#amount {
+    outline: none;
+    padding: 10px;
+    display: block;
+    border: none;
+    background: ghostwhite;
+}
+#spendamount {
+    width: 100%;
+    border: none;
+    background: rgb(98, 30, 255);
+    color: white;
+    padding: .7rem 0;
+    font-weight: 800;
+    margin-top: .5rem;
+}
